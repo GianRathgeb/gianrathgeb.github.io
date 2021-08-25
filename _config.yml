@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gianrathgeb"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gianrathgeb/"
 
 footer:
@@ -76,7 +76,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gianrathgeb"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gianrathgeb/"
 
 defaults:
