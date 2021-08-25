@@ -20,7 +20,7 @@ description: "This is the webpage where all my write ups will be posted"
 name: "Gian Rathgeb"
 github_username: gianrathgeb
 search: true
-words_per_minutes: 200
+words_per_minutes: 175
 
 # Build settings
 markdown: kramdown
