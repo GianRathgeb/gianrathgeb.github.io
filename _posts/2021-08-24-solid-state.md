@@ -2,10 +2,10 @@
 title: "Hack The Box - Solid State"
 date: 2021-08-24T12:34:30-04:00
 categories:
-  - Write-Up
+  - WriteUps
 tags:
-  - Jekyll
-  - update
+  - HackTheBox
+  - WriteUps
 ---
 
 # Introduction
