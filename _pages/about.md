@@ -11,5 +11,5 @@ Regional ICT Championship #1 of Switzerland
 Certifications:
 - CCNP Enterprise (1/2)
 - CCNA
-- CompTIA Security+
 - CompTIA Network+
+- CompTIA Security+
