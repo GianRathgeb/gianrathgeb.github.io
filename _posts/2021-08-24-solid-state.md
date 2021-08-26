@@ -115,7 +115,7 @@ No need to enumerate this service because I would need some usernames to brute f
 
 ---
 
-These is the email service. The name of the service is Apache James. For this version of the James Email service.
+These is the email service. The name of the service is Apache James. For this version of the James Email service, there is an exploit, but only for the administration tool.
 
 ### Port 4555
 
