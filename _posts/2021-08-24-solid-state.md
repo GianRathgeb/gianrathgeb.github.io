@@ -460,7 +460,7 @@ ${debian_chroot:+($debian_chroot)}mindy@solidstate:~$ whoami
 mindy
 ```
 
-I found another user called james, but it seems that he does not have any interesting files in (only .ssh but I have no permissions to go inside that directory), so I have to find a way do prives.
+I found another user called james, but it seems that he does not have any interesting files in his home (only .ssh but I have no permissions to go inside that directory), so I have to find a way do privesc.
 
 # Privilege Escalation
 
