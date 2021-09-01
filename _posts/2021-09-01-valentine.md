@@ -6,9 +6,6 @@ categories:
   - HackTheBox
   - Linux
 tags:
-  - HackTheBox
-  - WriteUps
-  - Valentine
   - OSCP Preparation
   - Heartbleed
   - Dirty Cow

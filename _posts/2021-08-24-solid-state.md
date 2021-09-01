@@ -6,9 +6,6 @@ categories:
   - HackTheBox
   - Linux
 tags:
-  - HackTheBox
-  - WriteUps
-  - Solid State
   - OSCP Preparation
   - SMTP
   - chroot
