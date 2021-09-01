@@ -4,6 +4,7 @@ date: 2021-09-01T12:34:30-04:00
 categories:
   - WriteUp
   - HackTheBox
+  - Linux
 tags:
   - HackTheBox
   - WriteUps
