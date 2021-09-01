@@ -2,10 +2,18 @@
 title: "Hack The Box - Solid State"
 date: 2021-08-24T12:34:30-04:00
 categories:
-  - WriteUps
+  - WriteUp
+  - HackTheBox
+  - Linux
 tags:
   - HackTheBox
   - WriteUps
+  - Solid State
+  - OSCP Preparation
+  - SMTP
+  - chroot
+  - Nmap
+  - Gobuster
 ---
 
 # Introduction
