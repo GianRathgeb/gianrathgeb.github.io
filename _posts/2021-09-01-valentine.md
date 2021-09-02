@@ -401,9 +401,9 @@ e6**************************1750
 
 In the tmp folder, there is a copy of the inPEAS script, the output of it is stored inside a file. I analyzed it and found two things that are critical:
 
-![Untitled](../assets/images/2021-09-01-valentine/img1.png)
+![Untitled](/assets/images/2021-09-01-valentine/img1.png)
 
-![Untitled](../assets/images/2021-09-01-valentine/img2.png)
+![Untitled](/assets/images/2021-09-01-valentine/img2.png)
 
 I first want to try the tmux vulnerability, because the kernel exploit may crash the machine:
 
