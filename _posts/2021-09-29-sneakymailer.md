@@ -1,9 +1,19 @@
-# SneakyMailer
-
 ---
-
+title: "Hack The Box - SneakyMailer"
+date: 2021-09-29T19:00:30-04:00
+categories:
+  - WriteUp
+  - HackTheBox
+  - Linux
+tags:
+  - OSCP Preparation
+  - IMAP
+  - PyPi
+  - nginx
+  - Custom Python Package
+  - Nmap
+  - Gobuster
 ---
-
 # Introduction
 
 ---
