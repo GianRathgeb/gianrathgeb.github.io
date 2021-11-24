@@ -130,7 +130,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 
 On the /wp/ directory, there is a wordpress instance running. I looked around the page, I found a sample page where I can create entries in the guestbook. I tried to create an entry, but it seems that it did not worked:
 
-![Untitled](/assets/images/2021-11-24-tartarsouce/Untitled.png)
+![Untitled](/assets/images/2021-11-24-tartarsauce/Untitled.png)
 
 So I used wpscan to scan the webpage:
 
