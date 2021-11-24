@@ -1,5 +1,5 @@
 ---
-title: "Hack The Box - Nineveh"
+title: "Hack The Box - Tartarsouce"
 date: 2021-11-24T20:30:30-04:00
 categories:
   - WriteUp
