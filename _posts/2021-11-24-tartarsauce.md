@@ -109,7 +109,8 @@ The robots.txt file does not help me, as well as the webservices directory, so I
 
 ```bash
 ┌──(user㉿KaliVM)-[/hackthebox/oscp-prep/tartarsauce]
-└─$ gobuster dir -u http://10.10.10.88/webservices -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -o gobuster-webservices.txt -x php,html,log,txt
+└─$ gobuster dir -u http://10.10.10.88/webservices -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
+-o gobuster-webservices.txt -x php,html,log,txt
 ===============================================================
 Gobuster v3.1.0
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
