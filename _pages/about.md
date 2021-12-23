@@ -13,3 +13,4 @@ Certifications:
 - CCNA
 - CompTIA Network+
 - CompTIA Security+
+- Road to OSCP
