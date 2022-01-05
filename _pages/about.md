@@ -9,6 +9,7 @@ Road to OSCP before 20<br/>
 Regional ICT Championship #1 of Switzerland<br/>
 
 Certifications:
+- OSCP
 - CCNP Enterprise (1/2)
 - CCNA
 - CompTIA Network+
