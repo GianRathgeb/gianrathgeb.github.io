@@ -1,6 +1,6 @@
 ---
 title: "Hack The Box - Brainfuck"
-date: 2021-10-13T22:30:30-04:00
+date: 2021-10-13T22:30:30+1:00
 categories:
   - WriteUp
   - HackTheBox

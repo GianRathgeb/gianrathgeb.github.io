@@ -1,6 +1,6 @@
 ---
 title: "Hack The Box - Valentine"
-date: 2021-09-01T12:34:30-04:00
+date: 2021-09-01T12:34:30+1:00
 categories:
   - WriteUp
   - HackTheBox
