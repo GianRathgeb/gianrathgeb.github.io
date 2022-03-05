@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title: Write Ups
+title: gianrathgeb
 email:
 description: "This is the webpage where all my write ups will be posted"
 name: "Gian Rathgeb"
