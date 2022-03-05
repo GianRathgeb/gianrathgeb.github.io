@@ -2,8 +2,8 @@
 title: "Hack The Box - Friendzone"
 date: 2021-12-15T17:00:30+1:00
 categories:
-  - WriteUp
   - HackTheBox
+  - WriteUp
   - Linux
 tags:
   - OSCP Preparation
