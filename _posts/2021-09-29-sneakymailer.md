@@ -2,8 +2,8 @@
 title: "Hack The Box - SneakyMailer"
 date: 2021-09-29T19:00:30+1:00
 categories:
-  - WriteUp
   - HackTheBox
+  - WriteUp
   - Linux
 tags:
   - OSCP Preparation
