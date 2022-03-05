@@ -2,8 +2,8 @@
 title: "Hack The Box - Tartarsouce"
 date: 2021-11-24T20:30:30+1:00
 categories:
-  - WriteUp
   - HackTheBox
+  - WriteUp
   - Linux
 tags:
   - OSCP Preparation
