@@ -11,7 +11,7 @@ tags:
   - Ona
   - SSH
   - Command Injection
-  - GTFObins
+  - GTFOBins
   - Nmap
   - Gobuster
 ---
