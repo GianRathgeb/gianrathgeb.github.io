@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - Solid State"
+description: "This is a write up about the hackthebox machine Solid State"
+author: "Gian Rathgeb"
 date: 2021-08-24T12:34:30+1:00
 categories:
   - HackTheBox

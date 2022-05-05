@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - Friendzone"
+description: "This is a write up about the hackthebox machine Friendzone"
+author: "Gian Rathgeb"
 date: 2021-12-15T17:00:30+1:00
 categories:
   - HackTheBox

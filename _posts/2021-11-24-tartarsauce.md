@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - Tartarsouce"
+description: "This is a write up about the hackthebox machine Tartarsouce"
+author: "Gian Rathgeb"
 date: 2021-11-24T20:30:30+1:00
 categories:
   - HackTheBox

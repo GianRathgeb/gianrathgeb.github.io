@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - Valentine"
+description: "This is a write up about the hackthebox machine Valentine"
+author: "Gian Rathgeb"
 date: 2021-09-01T12:34:30+1:00
 categories:
   - HackTheBox

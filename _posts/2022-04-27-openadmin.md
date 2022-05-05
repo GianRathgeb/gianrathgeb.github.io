@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - OpenAdmin"
+description: "This is a write up about the hackthebox machine OpenAdmin"
+author: "Gian Rathgeb"
 date: 2022-04-27T14:48:30+2:00
 categories:
   - HackTheBox

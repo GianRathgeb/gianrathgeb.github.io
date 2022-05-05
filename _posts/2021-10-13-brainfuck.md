@@ -1,5 +1,7 @@
 ---
 title: "Hack The Box - Brainfuck"
+description: "This is a write up about the hackthebox machine Brainfuck"
+author: "Gian Rathgeb"
 date: 2021-10-13T22:30:30+1:00
 categories:
   - HackTheBox
