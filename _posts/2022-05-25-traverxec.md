@@ -234,7 +234,7 @@ homedirs_public         public_www
 
 This is the configuration for the home dirs, with the username david I can try to access his home dir page on the webserver ([`http://traverxec.htb/~david/`](http://traverxec.htb/~david/)):
 
-![Untitled](/assets/images/2022-05-15-traverxec/Untitled.png)
+![Untitled](/assets/images/2022-05-25-traverxec/Untitled.png)
 
 This does not help me out. I scanned the host for hidden directories, but found nothing. So I came up with the idea of searching the location of the page in the shell I got:
 
@@ -364,7 +364,7 @@ I found a trick for this in a write up. If the terminal window is too small, the
 
 So shrunk the window and ran the command `/usr/bin/sudo /usr/bin/journalctl -n5 -unostromo.service`:
 
-![Untitled](/assets/images/2022-05-15-traverxec/Untitled1.png)
+![Untitled](/assets/images/2022-05-25-traverxec/Untitled1.png)
 
 You can now escape less using `!/bin/bash`:
 
