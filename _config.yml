@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Gian Rathgeb"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a security enthusiast, pentester on HackTheBox & TryHackMe"
+  bio    : "I'm a security enthusiast, pentester on HackTheBox, TryHackMe & other platforms. I also passed the OSCP exam."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
